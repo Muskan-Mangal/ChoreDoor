@@ -1,6 +1,6 @@
 # ChoreDoor
 
-It's a single-page website that plays a little fully-functional game. A little example of how HTML, CSS, and JavaScript interact harmoniously to produce a dynamic website.
+It's a single-page website that plays a little fully-functional game. A little example of how HTML, CSS, and JavaScript interact harmoniously to produce a dynamic website. Made with the help of a project walkthrough video from codeacademy with the sole purpose of learning.
 
 ## Project Structure
 
