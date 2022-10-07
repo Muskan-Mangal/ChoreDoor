@@ -22,7 +22,7 @@ The various files are:
   
   
  ## How to play the game
- just fork and clone this repo and run the `index.html` file.
+ Just fork and clone this repo and run the `index.html` file.
  
  ## How to contribute to the code
   In order to contribute to the code, you have to first fork this repository
